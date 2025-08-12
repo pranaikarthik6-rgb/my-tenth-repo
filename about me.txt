@@ -1,0 +1,3 @@
+Name: B.Pranai Karthik
+Course: BCA
+One Thing I Learned About GitHub: GitHub is a Powerful Platform for Version control and Collaboration that allows developers to work together on Projects from anywhere in the world. 
